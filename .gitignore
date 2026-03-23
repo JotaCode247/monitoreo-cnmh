@@ -1,0 +1,12 @@
+# Ignorar el entorno virtual (la carpeta pesada)
+env/
+venv/
+env_datos/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos temporales de carpetas en Linux
+.DS_Store
+.directory
